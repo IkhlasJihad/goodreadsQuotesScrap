@@ -43,3 +43,5 @@ python script to scrap tagged-quotes from Goodreads, run it as follows:
  - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Python library for web-scrapping
  - [urllib.request.urlopen](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) module for opening URLs
  - [pymongo](https://pymongo.readthedocs.io/en/stable/api/pymongo/index.html)
+
+<div align="center">:sparkles: Made with:heartbeat: :sparkles:</div>
